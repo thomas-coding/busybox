@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo "before mount"
+/bin/mount -a
+echo "after mount"
